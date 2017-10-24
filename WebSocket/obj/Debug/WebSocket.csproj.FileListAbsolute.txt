@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\WebSocket\bin\Debug\WebSocket.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\WebSocket\bin\Debug\WebSocket.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\WebSocket\obj\Debug\WebSocket.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\WebSocket\obj\Debug\WebSocket.pdb

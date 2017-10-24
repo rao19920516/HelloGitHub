@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Service\bin\Debug\Service.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Service\bin\Debug\Service.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Service\bin\Debug\Service.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Service\obj\Debug\Service.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Service\obj\Debug\Service.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache

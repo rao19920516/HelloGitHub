@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Client\bin\Debug\Client.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Client\bin\Debug\Client.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Client\bin\Debug\Client.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Client\obj\Debug\Client.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebSocket\Client\obj\Debug\Client.pdb
